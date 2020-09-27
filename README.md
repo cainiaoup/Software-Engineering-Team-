@@ -7,7 +7,7 @@ Software Engineering Team test file
 这个仓库先做一个大家入手github的测试仓库
 
 ## 工程文件结构
-暂且以每个人的名字命名一个文件夹(自己添加),加俩文件
+暂且以每个人的名字命名一个文件夹(自己添加),加俩文件<br>
 eg:
     readme.md（默认文件）
     Handsomewu（我的文件）
